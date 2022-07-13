@@ -7,7 +7,7 @@ public class SampleService {
 
 
     public String a = "here is your sample, mervel";
-    public String b = "Have a good day";
+    public String b = "Have a good and wonderful day";
 
 }
 
